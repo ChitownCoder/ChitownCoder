@@ -2,6 +2,7 @@
 > More to come....
 > Stay tuned....
 > [![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChitownCoder)](https://github.com/ChitownCoder/github-readme-stats)
+>![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 <!--
 **ChitownCoder/ChitownCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
