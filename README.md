@@ -2,23 +2,7 @@
 > More to come....
 > Stay tuned....
 > 
-class WhoAmI:
-	user = 'Haany Ali'
-   current_edu = "St. Mary's Group of Institutions"
-   hobbies = [
-   			'Drawing',
-   			'Watching Anime',
-   			'Reading Sci-Fi Novels'
-   			'Being up all Night chasing that ONE BUG...'
-   		]
-   
-   def getCity():
-   	return Hyderabad_India()
-   
-   def Ambitions():
-   	LearnJapanese()
-   	CreateSkyNet()
-   	FinishMyNovel()
+
 <!--
 **ChitownCoder/ChitownCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
