@@ -2,7 +2,7 @@
 > More to come....
 > Stay tuned....
 > 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.ChitownCoder.me/badge?page_id=page.id)
 >[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChitownCoder)](https://github.com/ChitownCoder/github-readme-stats)
 
 
