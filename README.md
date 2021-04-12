@@ -1,7 +1,7 @@
 ### Hi there 👋
 > More to come....
 > Stay tuned....
-> ![visitors](https://visitor-badge.ChitownCoder.me/badge?page_id=page.id)
+> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 >[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChitownCoder)](https://github.com/ChitownCoder/github-readme-stats)
 
 
