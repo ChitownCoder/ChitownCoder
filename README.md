@@ -1,8 +1,8 @@
 ### Hi there 👋
 > More to come....
 > Stay tuned....
-> [![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChitownCoder)](https://github.com/ChitownCoder/github-readme-stats)
->![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChitownCoder&theme=dark)
+
+>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChitownCoder&theme=algolia)
 
 
 <!--
