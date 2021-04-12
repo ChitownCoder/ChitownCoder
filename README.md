@@ -2,7 +2,7 @@
 > More to come....
 > Stay tuned....
 > [![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChitownCoder)](https://github.com/ChitownCoder/github-readme-stats)
->![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChitownCoder&theme=algolia_icons=true)
+>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChitownCoder&theme=dark)
 
 
 <!--
