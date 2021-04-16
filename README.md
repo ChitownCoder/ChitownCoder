@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chitowncoder&label=Profile%20views&color=0e75b6&style=flat" alt="chitowncoder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chitowncoder" alt="chitowncoder" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/chitown_coder" target="blank"><img src="https://img.shields.io/twitter/follow/chitown_coder?logo=twitter&style=for-the-badge" alt="chitown_coder" /></a> </p>
 
 - 🔭 I’m currently working on [Tailor Made Web Development](tailormadewebdevelopment.com)
@@ -16,8 +14,6 @@
 - 👨‍💻 All of my projects are available at [anthony-donovan.com](anthony-donovan.com)
 
 - 💬 Ask me about **React, MongoDB, or a great Deep Dish Pizza🍕**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1sLNJ3dFuf4B3v0I2renCUdA4L1NUJo7J2wz4vqX5jAc/edit?usp=sharing](https://docs.google.com/document/d/1sLNJ3dFuf4B3v0I2renCUdA4L1NUJo7J2wz4vqX5jAc/edit?usp=sharing)
 
 - ⚡ Fun fact **I am a christian who LOVES Football.**
 
@@ -33,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chitowncoder&show_icons=true&locale=en&layout=compact" alt="chitowncoder" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chitowncoder&show_icons=true&locale=en" alt="chitowncoder" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chitowncoder&" alt="chitowncoder" /></p>
