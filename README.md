@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Vue**
 
-- 👯 I’m looking to collaborate on **Assisting Nonprofit Organizations**
+- 👯 I’m looking to collaborate with others on **Assisting Nonprofit Organizations**
 
 - 👨‍💻 All of my projects are available at [anthony-donovan.com](anthony-donovan.com)
 
-- 💬 Ask me about **React, MongoDB, or a great Deep Dish Pizza🍕**
+- 💬 Ask me about **a malfunctioning appliance or a great Deep Dish Pizza🍕**
 
 - ⚡ Fun fact **I am a christian who LOVES Football.**
 
