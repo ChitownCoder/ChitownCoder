@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 <h3 align="center">I am a Full Stack Web Developer with a passion for Frontend</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chitowncoder&label=Profile%20views&color=0e75b6&style=flat" alt="chitowncoder" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/chitown_coder" target="blank"><img src="https://img.shields.io/twitter/follow/chitown_coder?logo=twitter&style=for-the-badge" alt="chitown_coder" /></a> </p>
 
