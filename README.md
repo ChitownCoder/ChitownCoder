@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [a SaaS for the Appliance Repair Industry](anthony-donovan.com)
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **Java/Android**
 
 - 👯 I’m looking to collaborate with others on **Assisting Nonprofit Organizations**
 
